@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.container{
+  @apply max-w-[1320px] mx-auto
+}
+@theme {
+  --font-lato: "Lato", sans-serif;
+}
+.menu ul li a{
+  @apply font-lato font-medium text-[16px] text-[#1B1B1B] duration-200
+}
+.menu ul li a:hover{
+  @apply  text-[#06C279]
+} 
