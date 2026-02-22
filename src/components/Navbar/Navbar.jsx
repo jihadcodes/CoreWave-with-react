@@ -4,7 +4,7 @@ import logo  from '../../assets/images/Logo.png'
 const Navbar = () => {
   return (
     <>
-    {/* <section className='bg-[#EEFFF9]'>
+    <section className='bg-[#EEFFF9]'>
         <div className="container">
             <div className="flex justify-between py-6.5 items-center">
                 <div className="logo">
@@ -28,7 +28,7 @@ const Navbar = () => {
                 </div>
             </div>
         </div>
-   </section> */}
+   </section>
     </>
   )
 }
