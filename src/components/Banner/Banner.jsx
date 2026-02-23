@@ -5,7 +5,7 @@ import { TbPlayerPlayFilled } from "react-icons/tb";
 const Banner = () => {
   return (
     <>
-      <section className="bg-[#EEFFF9]">
+      <section className="bg-[#EEFFF9] mb-[93px]">
         <div className="container">
           <div className="flex  ">
             <div className="b-left w-[45%] mt-[116px] mr-[141px]">
