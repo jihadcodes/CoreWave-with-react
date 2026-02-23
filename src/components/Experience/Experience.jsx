@@ -8,7 +8,7 @@ const Experience = () => {
         <div className="container">
           <div className="flex justify-between">
             <div className="w-[40%] mt-9.5">
-              <h2 className="text-[45px] font-lato font-semibold text-[#000000] leading-[54px] mb-7.25 pr-41">
+              <h2 className="text-[45px] font-lato font-semibold text-[#000000] leading-[54px] mb-7.25 pr-20">
                 Experience the power of Corewave
               </h2>
 
