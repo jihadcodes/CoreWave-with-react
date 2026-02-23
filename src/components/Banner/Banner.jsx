@@ -18,8 +18,8 @@ const Banner = () => {
                 CoreWave's Advanced Tools and Techniques
               </p>
               <div className="btn flex  gap-5">
-                        <button className='py-3.5 px-6.25 text-[16px ] font-lato font-semibold bg-[#06C279] text-white rounded-[5px]'>Explore More</button>
-                        <button className='py-3.5 px-6.25 text-[16px ] font-lato font-semibold border-[2px] border-[#06C279] text-[#1B1B1B] rounded-[5px] flex gap-3 items-center '>
+                        <button className='py-3.5 px-6.25 text-[16px ] cursor-pointer font-lato font-semibold bg-[#06C279] text-white rounded-[5px]'>Explore More</button>
+                        <button className='py-3.5 px-6.25 text-[16px ] cursor-pointer font-lato font-semibold border-[2px] border-[#06C279] text-[#1B1B1B] rounded-[5px] flex gap-3 items-center '>
                             <div className="w-5 h-5 rounded-[42px] bg-[#DAF6EB] flex justify-center items-center">
                                 <TbPlayerPlayFilled className="text-[#06C279] " />
                             </div>

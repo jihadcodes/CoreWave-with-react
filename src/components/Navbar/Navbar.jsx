@@ -22,7 +22,7 @@ const Navbar = () => {
                         </ul>
                     </div>
                     <div className="btn">
-                        <button className='py-3.5 px-6.25 text-[16px ] font-lato font-semibold bg-[#06C279] text-white rounded-[5px]'>Register</button>
+                        <button className='py-3.5 px-6.25 text-[16px ] cursor-pointer font-lato font-semibold bg-[#06C279] text-white rounded-[5px]'>Register</button>
                     </div>
 
                 </div>
