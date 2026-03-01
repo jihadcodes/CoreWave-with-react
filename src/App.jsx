@@ -1,5 +1,6 @@
 import Banner from './components/Banner/Banner'
 import Experience from './components/Experience/Experience'
+import Footer from './components/Footer/Footer'
 import Navbar from './components/Navbar/Navbar'
 import Services from './components/Services/Services'
 const App = () => {
@@ -9,6 +10,7 @@ const App = () => {
     <Banner></Banner>
     <Experience></Experience>
     <Services/>
+    <Footer/>
     </>
   )
 }
